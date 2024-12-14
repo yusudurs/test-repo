@@ -1,3 +1,0 @@
-# Demo
-
-Learning git!
